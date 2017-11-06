@@ -1,5 +1,9 @@
 # DiscordWoWVanillaBot
-discord bot for getting item information using selenium and Vanillagaming website.
+[![PyPI](https://img.shields.io/pypi/v/discord.py.svg)](https://pypi.python.org/pypi/discord.py/)
+[![PyPI](https://img.shields.io/pypi/pyversions/discord.py.svg)](https://pypi.python.org/pypi/discord.py/)
+
+discord bot for getting item information using selenium, discord python api and Vanillagaming website. Edit
+Add topics
 
 
 ## Requirements
